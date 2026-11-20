@@ -19,3 +19,10 @@ hs_err_pid*
 replay_pid*
 # Local working context
 contexte.md
+
+# Documentation build files and local files
+*.aux
+*.out
+*.toc
+.DS_Store
+.claude/
